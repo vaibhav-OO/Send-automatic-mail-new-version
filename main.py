@@ -47,19 +47,3 @@ if today_tuple in birthdays_dict:
             msg=f"Subject:Happy Birthday!\n\n"
                 f"{contents}"
         )
-
-
-
-
-
-#Day 33
-
-# import requests
-#
-# response = requests.get(
-#     url="http://api.open-notify.org/iss-now.json")
-# response.raise_for_status()
-#
-# data = response.json()
-# print(data)
-#
